@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Web_Playwright_Java/src/main/java"/>
+	<classpathentry kind="src" path="Web_Playwright_Java/src/test/java"/>
+	<classpathentry kind="output" path="Web_Playwright_Java/target/classes"/>
+</classpath>

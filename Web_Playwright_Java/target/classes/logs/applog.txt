@@ -1,0 +1,17 @@
+INFO    2023-11-09 11:29:13,957 [main] testcases.CarNamesAndPriceTest  - Test Execution started !!!
+INFO    2023-11-09 11:29:21,998 [main] testcases.FindNewCarsTest  - Launching Chrome browser
+INFO    2023-11-09 11:29:24,959 [main] testcases.FindNewCarsTest  - Navigated to : https://www.carwale.com/
+INFO    2023-11-09 11:29:29,410 [main] testcases.FindNewCarsTest  - Launching Chrome browser
+INFO    2023-11-09 11:29:31,792 [main] testcases.FindNewCarsTest  - Navigated to : https://www.carwale.com/
+INFO    2023-11-09 11:29:36,083 [main] testcases.FindNewCarsTest  - Launching Chrome browser
+INFO    2023-11-09 11:29:38,454 [main] testcases.FindNewCarsTest  - Navigated to : https://www.carwale.com/
+INFO    2023-11-09 11:29:42,547 [main] testcases.FindNewCarsTest  - Launching Chrome browser
+INFO    2023-11-09 11:29:44,807 [main] testcases.FindNewCarsTest  - Navigated to : https://www.carwale.com/
+INFO    2023-11-09 11:29:49,015 [main] testcases.CarNamesAndPriceTest  - Launching Chrome browser
+INFO    2023-11-09 11:29:51,541 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/
+INFO    2023-11-09 11:29:55,649 [main] testcases.CarNamesAndPriceTest  - Launching Chrome browser
+INFO    2023-11-09 11:29:58,339 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/
+INFO    2023-11-09 11:30:02,838 [main] testcases.CarNamesAndPriceTest  - Launching Chrome browser
+INFO    2023-11-09 11:30:05,206 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/
+INFO    2023-11-09 11:30:09,634 [main] testcases.CarNamesAndPriceTest  - Launching Chrome browser
+INFO    2023-11-09 11:30:11,941 [main] testcases.CarNamesAndPriceTest  - Navigated to : https://www.carwale.com/
